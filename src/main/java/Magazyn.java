@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -40,3 +41,8 @@ public class Magazyn {
         produktList.forEach(System.out::println);
     }
 }
+=======
+public class Magazyn {
+    int asd;
+}
+>>>>>>> br1

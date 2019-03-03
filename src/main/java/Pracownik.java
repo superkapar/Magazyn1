@@ -1,4 +1,5 @@
 public class Pracownik {
+<<<<<<< HEAD
     private String imie;
     private String nazwisko;
     private String pesel;
@@ -6,3 +7,13 @@ public class Pracownik {
     private int zarobki;
 
 }
+=======
+    String imie;
+    String nazwisko;
+    String pesel;
+    int wiek;
+    double zarobki;
+}
+
+
+>>>>>>> br1
